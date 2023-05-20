@@ -1,0 +1,2 @@
+# probabilisticGraphicalModels
+probabilistic Graphical Models
